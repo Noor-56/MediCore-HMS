@@ -7,7 +7,7 @@
 
 ## 🔗 GitHub Repository
 **Link:** 
-
+https://github.com/Noor-56/MediCore-HMS
 ---
 
 ## Project Overview
