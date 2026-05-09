@@ -25,8 +25,7 @@ MediCore is a Hospital Management System developed for the Spring 2026 OOP cours
 ### Setup Steps
 1. **Include SFML:** Link the SFML `include` and `lib` directories in Project Properties.
 2. **Dependencies:** Add `sfml-graphics.lib`, `sfml-window.lib`, and `sfml-system.lib` to the Linker Input.
-3. **Assets:** Ensure `segoeui.ttf` or `arial.ttf` is available in the Windows Fonts directory (or project folder) for the SFML status bar.
-4. **Run:** Build the solution and run via `Ctrl + F5`.
+3. **Run:** Build the solution and run via `Ctrl + F5`.
 
 ---
 
