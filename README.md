@@ -19,7 +19,7 @@ MediCore is a Hospital Management System developed for the Spring 2026 OOP cours
 
 ### Prerequisites
 1. **IDE:** Visual Studio 2022.
-2. **Library:** **SFML 2.6.x**.
+2. **Library:** **SFML**.
 3. **Language:** C++
 
 ### Setup Steps
