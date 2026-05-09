@@ -1,0 +1,4 @@
+1,Fatima,Mental Health,09876543211,FFFFFF,4500.00
+2,Faiza,Mental Health,99999999999,ffffff,5500.00
+3,Warda,Cardiology,12345678900,wwwwww,7000.00
+4,Saad,Skin specialist,12212212211,SsSsSs,5500.00
